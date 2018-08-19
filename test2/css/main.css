@@ -1,5 +1,6 @@
-#chicken{
+#chicken,#Beef,#Sushi{
     background-color:gray;
+    margin-bottom:20px;
 
 }
 .navbar-nav{
@@ -7,7 +8,10 @@
   list-style:none;
   font-size: 16px;
   font-weight: bold; 
+      padding: 0px;
 }
 .navbar-nav li{
-    border-bottom:1px solid black;
+   border-bottom: 1px solid #ddd;
+
+    padding: 10px;
 }
